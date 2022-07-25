@@ -7,7 +7,7 @@ You also have pagination and can click “next” to fetch more stories.
 The search input box allows you to input any topic you are interested in reading about. 
 This project also utilizes CSS variables and ContextAPI and Reducers. 
 
-<img width=“450” alt="home" src="https://user-images.githubusercontent.com/90734558/180857705-20f75741-e2c4-4ef7-b9e3-3714333098a5.png">
+<img width="450" alt="home" src="https://user-images.githubusercontent.com/90734558/180857705-20f75741-e2c4-4ef7-b9e3-3714333098a5.png">
 
 #### To run the App locally.
 Get the node modules first. 
